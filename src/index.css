@@ -1,0 +1,33 @@
+@font-face{
+  font-family: 'Charlotte';
+  src: url(./fonts/charlotte.ttf)
+
+}
+@font-face{
+  font-family: 'MYRIADPRO-REGULAR';
+  src: url(./fonts/MYRIADPRO-REGULAR.OTF)
+
+}
+
+*{
+  font-family: 'MYRIADPRO-REGULAR', sans-serif;
+}
+
+
+body{
+  display: flex;
+  width: 600px;
+  height: 950px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  outline: none;
+  background:  rgb(221, 159, 134)
+
+
+}
+
+a:link {
+  text-decoration: none;
+}

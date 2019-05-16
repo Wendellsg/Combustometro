@@ -1,0 +1,176 @@
+.app{
+    display: flex;
+    flex: 2;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 900px;
+    width: 500px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background: linear-gradient(  to bottom, rgb(249,185,152) 50%, rgb(200,123,104))
+}
+
+.btn{
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'MYRIADPRO-REGULAR';
+    font-size: 1.8em;
+    background: #000000;
+    color: #ffffff;
+    height: 45px;
+    width: 250px;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    
+    
+    
+}
+
+.btn:active{
+    background: #333;
+    
+}
+
+.titulos{
+    color: #000;
+    font-size: 40px;
+
+}
+h3.titulos{
+    color: #000;
+    font-size: 25px;
+
+}
+
+.textarea{
+    width: 250px;
+    background-color: #ffd6ca;
+    border: 3px black;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    outline: none;
+
+}
+
+.btnrn{
+    height: 60px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center center;
+    margin: 40px;
+    position: relative;
+    left: 63px;
+
+
+}
+
+.resultado{
+    font-family: 'Charlotte';
+    color: #000;
+    font-size: 5.5em;
+    text-shadow: 10px 0px 30px rgba(235, 99, 99, 0.644);
+    
+}
+
+
+.btnrng{
+
+
+        height: 60px;
+        width: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center center;
+        margin: 40px;
+        position: relative;
+        left: 20px;
+
+}
+.btnrna{
+
+
+    height: 60px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center center;
+    margin: 40px;
+    position: relative;
+    left: 0px;
+
+}
+
+.logo{
+    display: inline-block;
+    opacity: 0.5;
+    width: 100px;
+    position: relative;
+    
+    top: 100px;
+}
+
+.logor{
+    display: inline-block;
+    opacity: 0.5;
+    width: 100px;
+    position: relative;
+    
+    top: 50px;
+}
+
+.logo-loading{
+    width: 300px;
+}
+
+.form{
+    background-color: rgb(255,214,202, 0.9);
+    border-radius: 20px;
+    padding: 20px 0px;
+
+    
+
+}
+.forminput{
+    background-color: #ffffff;
+    color: #000;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    outline: none;
+    border: 3px black;
+    height: 30px;
+    width: 250px;
+    
+    
+
+
+
+}
+.infoblock{
+   display: flex;
+   align-items: baseline;
+   margin-left: 10px;
+   justify-content: center;
+   text-align: center;
+   
+}
+
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: #ffd6ca;
+    border: 3px black;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}

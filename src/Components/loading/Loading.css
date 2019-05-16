@@ -1,0 +1,5 @@
+.logo{
+    display: flex;
+    background-image: url(../../logo.png);
+    width: 100px;
+}
